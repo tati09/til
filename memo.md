@@ -19,3 +19,7 @@ bbb
 - .zshrc mygit/dotfiles/.zshrc
 - ln -s mygit/dotfiles/.zshrc
 - 新しいタブを開く
+- aaa
+- git add ファイル
+- git commit
+- git push origin master
