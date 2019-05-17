@@ -20,3 +20,5 @@ $ git <push> -f "reoisitory" "ref"
 ```
 
 以降に役に立ったものは追記しようね
+
+test追記
