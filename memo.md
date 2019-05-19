@@ -23,3 +23,7 @@ bbb
 - git add ファイル
 - git commit
 - git push origin master
+- memo
+- brewでgoをインストールしました
+- git addはcdをローカルリポジトリに移動しないとできない？
+- git add mygit/til/memo.mdみたいなことはできなかった
