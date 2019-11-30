@@ -27,3 +27,5 @@ bbb
 - brewでgoをインストールしました
 - git addはcdをローカルリポジトリに移動しないとできない？
 - git add mygit/til/memo.mdみたいなことはできなかった
+- vCenterにESXiホストを追加する際に、追加されたホストの名前がDNSに登録されたドメイン付きの名前で登録されてしまうのが嫌な場合は、vCSAのhostsに事前にESXiホストの名前を登録しておく（vCSAのhostsを編集することは問題なし）
+- viでbackspace効かなくなったときの解決として参考にしたやつhttps://qiita.com/ARTS_papa/items/60ba305b23dc967bba87
